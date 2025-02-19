@@ -86,3 +86,5 @@ Implementing text-based search and replace functionality.
 7. Database-like Operations
 
 Using text files as a lightweight alternative to databases for simple applications.
+
+**OUTPUT**:https://github.com/user-attachments/assets/7dd0d562-bca8-44a4-9657-27f4264b6c0e
